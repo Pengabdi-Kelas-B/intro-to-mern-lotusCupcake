@@ -51,7 +51,7 @@ const Thumbnail = ({ pokemon, isFlipped, onFlip }) => {
         >
           <h3 className="font-bold mb-2">Additional Info</h3>
           <p>Weight: {pokemon.weight} kg</p>
-          <p>Height: {pokemon.heigh} cm</p>
+          <p>Height: {pokemon.height} cm</p>
           <div className="mt-2">
             <h4 className="font-semibold mb-1">Abilities:</h4>
             <ul className="list-disc list-inside">

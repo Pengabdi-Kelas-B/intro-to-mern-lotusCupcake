@@ -29,7 +29,7 @@ async function generateJsonDB() {
       name: item.name,
       types: types,
       abilities: abilities,
-      heigh: detail.height,
+      height: detail.height,
       weight: detail.weight,
       cries: detail.cries,
       image: detail.sprites.other.dream_world.front_default,

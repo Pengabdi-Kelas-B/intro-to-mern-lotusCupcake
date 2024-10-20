@@ -11,7 +11,7 @@
         "static",
         "aftermath"
       ],
-      "heigh": 12,
+      "height": 12,
       "weight": 666,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/101.ogg",
@@ -30,7 +30,7 @@
         "chlorophyll",
         "harvest"
       ],
-      "heigh": 4,
+      "height": 4,
       "weight": 25,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/102.ogg",
@@ -49,7 +49,7 @@
         "chlorophyll",
         "harvest"
       ],
-      "heigh": 20,
+      "height": 20,
       "weight": 1200,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/103.ogg",
@@ -68,7 +68,7 @@
         "lightning-rod",
         "battle-armor"
       ],
-      "heigh": 4,
+      "height": 4,
       "weight": 65,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/104.ogg",
@@ -87,7 +87,7 @@
         "lightning-rod",
         "battle-armor"
       ],
-      "heigh": 10,
+      "height": 10,
       "weight": 450,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/105.ogg",
@@ -106,7 +106,7 @@
         "reckless",
         "unburden"
       ],
-      "heigh": 15,
+      "height": 15,
       "weight": 498,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/106.ogg",
@@ -125,7 +125,7 @@
         "iron-fist",
         "inner-focus"
       ],
-      "heigh": 14,
+      "height": 14,
       "weight": 502,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/107.ogg",
@@ -144,7 +144,7 @@
         "oblivious",
         "cloud-nine"
       ],
-      "heigh": 12,
+      "height": 12,
       "weight": 655,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg",
@@ -163,7 +163,7 @@
         "neutralizing-gas",
         "stench"
       ],
-      "heigh": 6,
+      "height": 6,
       "weight": 10,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/109.ogg",
@@ -182,7 +182,7 @@
         "neutralizing-gas",
         "stench"
       ],
-      "heigh": 12,
+      "height": 12,
       "weight": 95,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/110.ogg",
@@ -202,7 +202,7 @@
         "rock-head",
         "reckless"
       ],
-      "heigh": 10,
+      "height": 10,
       "weight": 1150,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/111.ogg",
@@ -222,7 +222,7 @@
         "rock-head",
         "reckless"
       ],
-      "heigh": 19,
+      "height": 19,
       "weight": 1200,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/112.ogg",
@@ -241,7 +241,7 @@
         "serene-grace",
         "healer"
       ],
-      "heigh": 11,
+      "height": 11,
       "weight": 346,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/113.ogg",
@@ -260,7 +260,7 @@
         "leaf-guard",
         "regenerator"
       ],
-      "heigh": 10,
+      "height": 10,
       "weight": 350,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/114.ogg",
@@ -279,7 +279,7 @@
         "scrappy",
         "inner-focus"
       ],
-      "heigh": 22,
+      "height": 22,
       "weight": 800,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/115.ogg",
@@ -298,7 +298,7 @@
         "sniper",
         "damp"
       ],
-      "heigh": 4,
+      "height": 4,
       "weight": 80,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/116.ogg",
@@ -317,7 +317,7 @@
         "sniper",
         "damp"
       ],
-      "heigh": 12,
+      "height": 12,
       "weight": 250,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/117.ogg",
@@ -336,7 +336,7 @@
         "water-veil",
         "lightning-rod"
       ],
-      "heigh": 6,
+      "height": 6,
       "weight": 150,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/118.ogg",
@@ -355,7 +355,7 @@
         "water-veil",
         "lightning-rod"
       ],
-      "heigh": 13,
+      "height": 13,
       "weight": 390,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/119.ogg",
@@ -374,7 +374,7 @@
         "natural-cure",
         "analytic"
       ],
-      "heigh": 8,
+      "height": 8,
       "weight": 345,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/120.ogg",
@@ -394,7 +394,7 @@
         "natural-cure",
         "analytic"
       ],
-      "heigh": 11,
+      "height": 11,
       "weight": 800,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/121.ogg",
@@ -414,7 +414,7 @@
         "filter",
         "technician"
       ],
-      "heigh": 13,
+      "height": 13,
       "weight": 545,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/122.ogg",
@@ -434,7 +434,7 @@
         "technician",
         "steadfast"
       ],
-      "heigh": 15,
+      "height": 15,
       "weight": 560,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/123.ogg",
@@ -454,7 +454,7 @@
         "forewarn",
         "dry-skin"
       ],
-      "heigh": 14,
+      "height": 14,
       "weight": 406,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/124.ogg",
@@ -472,7 +472,7 @@
         "static",
         "vital-spirit"
       ],
-      "heigh": 11,
+      "height": 11,
       "weight": 300,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/125.ogg",
@@ -490,7 +490,7 @@
         "flame-body",
         "vital-spirit"
       ],
-      "heigh": 13,
+      "height": 13,
       "weight": 445,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/126.ogg",
@@ -509,7 +509,7 @@
         "mold-breaker",
         "moxie"
       ],
-      "heigh": 15,
+      "height": 15,
       "weight": 550,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/127.ogg",
@@ -528,7 +528,7 @@
         "anger-point",
         "sheer-force"
       ],
-      "heigh": 14,
+      "height": 14,
       "weight": 884,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/128.ogg",
@@ -546,7 +546,7 @@
         "swift-swim",
         "rattled"
       ],
-      "heigh": 9,
+      "height": 9,
       "weight": 100,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/129.ogg",
@@ -565,7 +565,7 @@
         "intimidate",
         "moxie"
       ],
-      "heigh": 65,
+      "height": 65,
       "weight": 2350,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/130.ogg",
@@ -585,7 +585,7 @@
         "shell-armor",
         "hydration"
       ],
-      "heigh": 25,
+      "height": 25,
       "weight": 2200,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/131.ogg",
@@ -603,7 +603,7 @@
         "limber",
         "imposter"
       ],
-      "heigh": 3,
+      "height": 3,
       "weight": 40,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/132.ogg",
@@ -622,7 +622,7 @@
         "adaptability",
         "anticipation"
       ],
-      "heigh": 3,
+      "height": 3,
       "weight": 65,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/133.ogg",
@@ -640,7 +640,7 @@
         "water-absorb",
         "hydration"
       ],
-      "heigh": 10,
+      "height": 10,
       "weight": 290,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/134.ogg",
@@ -658,7 +658,7 @@
         "volt-absorb",
         "quick-feet"
       ],
-      "heigh": 8,
+      "height": 8,
       "weight": 245,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/135.ogg",
@@ -676,7 +676,7 @@
         "flash-fire",
         "guts"
       ],
-      "heigh": 9,
+      "height": 9,
       "weight": 250,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/136.ogg",
@@ -695,7 +695,7 @@
         "download",
         "analytic"
       ],
-      "heigh": 8,
+      "height": 8,
       "weight": 365,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/137.ogg",
@@ -715,7 +715,7 @@
         "shell-armor",
         "weak-armor"
       ],
-      "heigh": 4,
+      "height": 4,
       "weight": 75,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/138.ogg",
@@ -735,7 +735,7 @@
         "shell-armor",
         "weak-armor"
       ],
-      "heigh": 10,
+      "height": 10,
       "weight": 350,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/139.ogg",
@@ -755,7 +755,7 @@
         "battle-armor",
         "weak-armor"
       ],
-      "heigh": 5,
+      "height": 5,
       "weight": 115,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/140.ogg",
@@ -775,7 +775,7 @@
         "battle-armor",
         "weak-armor"
       ],
-      "heigh": 13,
+      "height": 13,
       "weight": 405,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/141.ogg",
@@ -795,7 +795,7 @@
         "pressure",
         "unnerve"
       ],
-      "heigh": 18,
+      "height": 18,
       "weight": 590,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/142.ogg",
@@ -814,7 +814,7 @@
         "thick-fat",
         "gluttony"
       ],
-      "heigh": 21,
+      "height": 21,
       "weight": 4600,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/143.ogg",
@@ -833,7 +833,7 @@
         "pressure",
         "snow-cloak"
       ],
-      "heigh": 17,
+      "height": 17,
       "weight": 554,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/144.ogg",
@@ -852,7 +852,7 @@
         "pressure",
         "static"
       ],
-      "heigh": 16,
+      "height": 16,
       "weight": 526,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/145.ogg",
@@ -871,7 +871,7 @@
         "pressure",
         "flame-body"
       ],
-      "heigh": 20,
+      "height": 20,
       "weight": 600,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/146.ogg",
@@ -889,7 +889,7 @@
         "shed-skin",
         "marvel-scale"
       ],
-      "heigh": 18,
+      "height": 18,
       "weight": 33,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/147.ogg",
@@ -907,7 +907,7 @@
         "shed-skin",
         "marvel-scale"
       ],
-      "heigh": 40,
+      "height": 40,
       "weight": 165,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/148.ogg",
@@ -926,7 +926,7 @@
         "inner-focus",
         "multiscale"
       ],
-      "heigh": 22,
+      "height": 22,
       "weight": 2100,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/149.ogg",
@@ -944,7 +944,7 @@
         "pressure",
         "unnerve"
       ],
-      "heigh": 20,
+      "height": 20,
       "weight": 1220,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/150.ogg",
@@ -961,7 +961,7 @@
       "abilities": [
         "synchronize"
       ],
-      "heigh": 4,
+      "height": 4,
       "weight": 40,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/151.ogg",
@@ -979,7 +979,7 @@
         "overgrow",
         "leaf-guard"
       ],
-      "heigh": 9,
+      "height": 9,
       "weight": 64,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/152.ogg",
@@ -997,7 +997,7 @@
         "overgrow",
         "leaf-guard"
       ],
-      "heigh": 12,
+      "height": 12,
       "weight": 158,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/153.ogg",
@@ -1015,7 +1015,7 @@
         "overgrow",
         "leaf-guard"
       ],
-      "heigh": 18,
+      "height": 18,
       "weight": 1005,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/154.ogg",
@@ -1033,7 +1033,7 @@
         "blaze",
         "flash-fire"
       ],
-      "heigh": 5,
+      "height": 5,
       "weight": 79,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/155.ogg",
@@ -1051,7 +1051,7 @@
         "blaze",
         "flash-fire"
       ],
-      "heigh": 9,
+      "height": 9,
       "weight": 190,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/156.ogg",
@@ -1069,7 +1069,7 @@
         "blaze",
         "flash-fire"
       ],
-      "heigh": 17,
+      "height": 17,
       "weight": 795,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/157.ogg",
@@ -1087,7 +1087,7 @@
         "torrent",
         "sheer-force"
       ],
-      "heigh": 6,
+      "height": 6,
       "weight": 95,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/158.ogg",
@@ -1105,7 +1105,7 @@
         "torrent",
         "sheer-force"
       ],
-      "heigh": 11,
+      "height": 11,
       "weight": 250,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/159.ogg",
@@ -1123,7 +1123,7 @@
         "torrent",
         "sheer-force"
       ],
-      "heigh": 23,
+      "height": 23,
       "weight": 888,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/160.ogg",
@@ -1142,7 +1142,7 @@
         "keen-eye",
         "frisk"
       ],
-      "heigh": 8,
+      "height": 8,
       "weight": 60,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/161.ogg",
@@ -1161,7 +1161,7 @@
         "keen-eye",
         "frisk"
       ],
-      "heigh": 18,
+      "height": 18,
       "weight": 325,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/162.ogg",
@@ -1181,7 +1181,7 @@
         "keen-eye",
         "tinted-lens"
       ],
-      "heigh": 7,
+      "height": 7,
       "weight": 212,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/163.ogg",
@@ -1201,7 +1201,7 @@
         "keen-eye",
         "tinted-lens"
       ],
-      "heigh": 16,
+      "height": 16,
       "weight": 408,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/164.ogg",
@@ -1221,7 +1221,7 @@
         "early-bird",
         "rattled"
       ],
-      "heigh": 10,
+      "height": 10,
       "weight": 108,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/165.ogg",
@@ -1241,7 +1241,7 @@
         "early-bird",
         "iron-fist"
       ],
-      "heigh": 14,
+      "height": 14,
       "weight": 356,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/166.ogg",
@@ -1261,7 +1261,7 @@
         "insomnia",
         "sniper"
       ],
-      "heigh": 5,
+      "height": 5,
       "weight": 85,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/167.ogg",
@@ -1281,7 +1281,7 @@
         "insomnia",
         "sniper"
       ],
-      "heigh": 11,
+      "height": 11,
       "weight": 335,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/168.ogg",
@@ -1300,7 +1300,7 @@
         "inner-focus",
         "infiltrator"
       ],
-      "heigh": 18,
+      "height": 18,
       "weight": 750,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/169.ogg",
@@ -1320,7 +1320,7 @@
         "illuminate",
         "water-absorb"
       ],
-      "heigh": 5,
+      "height": 5,
       "weight": 120,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/170.ogg",
@@ -1340,7 +1340,7 @@
         "illuminate",
         "water-absorb"
       ],
-      "heigh": 12,
+      "height": 12,
       "weight": 225,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/171.ogg",
@@ -1358,7 +1358,7 @@
         "static",
         "lightning-rod"
       ],
-      "heigh": 3,
+      "height": 3,
       "weight": 20,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/172.ogg",
@@ -1377,7 +1377,7 @@
         "magic-guard",
         "friend-guard"
       ],
-      "heigh": 3,
+      "height": 3,
       "weight": 30,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/173.ogg",
@@ -1397,7 +1397,7 @@
         "competitive",
         "friend-guard"
       ],
-      "heigh": 3,
+      "height": 3,
       "weight": 10,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/174.ogg",
@@ -1416,7 +1416,7 @@
         "serene-grace",
         "super-luck"
       ],
-      "heigh": 3,
+      "height": 3,
       "weight": 15,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/175.ogg",
@@ -1436,7 +1436,7 @@
         "serene-grace",
         "super-luck"
       ],
-      "heigh": 6,
+      "height": 6,
       "weight": 32,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/176.ogg",
@@ -1456,7 +1456,7 @@
         "early-bird",
         "magic-bounce"
       ],
-      "heigh": 2,
+      "height": 2,
       "weight": 20,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/177.ogg",
@@ -1476,7 +1476,7 @@
         "early-bird",
         "magic-bounce"
       ],
-      "heigh": 15,
+      "height": 15,
       "weight": 150,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/178.ogg",
@@ -1494,7 +1494,7 @@
         "static",
         "plus"
       ],
-      "heigh": 6,
+      "height": 6,
       "weight": 78,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/179.ogg",
@@ -1512,7 +1512,7 @@
         "static",
         "plus"
       ],
-      "heigh": 8,
+      "height": 8,
       "weight": 133,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/180.ogg",
@@ -1530,7 +1530,7 @@
         "static",
         "plus"
       ],
-      "heigh": 14,
+      "height": 14,
       "weight": 615,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/181.ogg",
@@ -1548,7 +1548,7 @@
         "chlorophyll",
         "healer"
       ],
-      "heigh": 4,
+      "height": 4,
       "weight": 58,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/182.ogg",
@@ -1568,7 +1568,7 @@
         "huge-power",
         "sap-sipper"
       ],
-      "heigh": 4,
+      "height": 4,
       "weight": 85,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/183.ogg",
@@ -1588,7 +1588,7 @@
         "huge-power",
         "sap-sipper"
       ],
-      "heigh": 8,
+      "height": 8,
       "weight": 285,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/184.ogg",
@@ -1607,7 +1607,7 @@
         "rock-head",
         "rattled"
       ],
-      "heigh": 12,
+      "height": 12,
       "weight": 380,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/185.ogg",
@@ -1626,7 +1626,7 @@
         "damp",
         "drizzle"
       ],
-      "heigh": 11,
+      "height": 11,
       "weight": 339,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/186.ogg",
@@ -1646,7 +1646,7 @@
         "leaf-guard",
         "infiltrator"
       ],
-      "heigh": 4,
+      "height": 4,
       "weight": 5,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/187.ogg",
@@ -1666,7 +1666,7 @@
         "leaf-guard",
         "infiltrator"
       ],
-      "heigh": 6,
+      "height": 6,
       "weight": 10,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/188.ogg",
@@ -1686,7 +1686,7 @@
         "leaf-guard",
         "infiltrator"
       ],
-      "heigh": 8,
+      "height": 8,
       "weight": 30,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/189.ogg",
@@ -1705,7 +1705,7 @@
         "pickup",
         "skill-link"
       ],
-      "heigh": 8,
+      "height": 8,
       "weight": 115,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/190.ogg",
@@ -1724,7 +1724,7 @@
         "solar-power",
         "early-bird"
       ],
-      "heigh": 3,
+      "height": 3,
       "weight": 18,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/191.ogg",
@@ -1743,7 +1743,7 @@
         "solar-power",
         "early-bird"
       ],
-      "heigh": 8,
+      "height": 8,
       "weight": 85,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/192.ogg",
@@ -1763,7 +1763,7 @@
         "compound-eyes",
         "frisk"
       ],
-      "heigh": 12,
+      "height": 12,
       "weight": 380,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/193.ogg",
@@ -1783,7 +1783,7 @@
         "water-absorb",
         "unaware"
       ],
-      "heigh": 4,
+      "height": 4,
       "weight": 85,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/194.ogg",
@@ -1803,7 +1803,7 @@
         "water-absorb",
         "unaware"
       ],
-      "heigh": 14,
+      "height": 14,
       "weight": 750,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/195.ogg",
@@ -1821,7 +1821,7 @@
         "synchronize",
         "magic-bounce"
       ],
-      "heigh": 9,
+      "height": 9,
       "weight": 265,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/196.ogg",
@@ -1839,7 +1839,7 @@
         "synchronize",
         "inner-focus"
       ],
-      "heigh": 10,
+      "height": 10,
       "weight": 270,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/197.ogg",
@@ -1859,7 +1859,7 @@
         "super-luck",
         "prankster"
       ],
-      "heigh": 5,
+      "height": 5,
       "weight": 21,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/198.ogg",
@@ -1879,7 +1879,7 @@
         "own-tempo",
         "regenerator"
       ],
-      "heigh": 20,
+      "height": 20,
       "weight": 795,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/199.ogg",
@@ -1896,7 +1896,7 @@
       "abilities": [
         "levitate"
       ],
-      "heigh": 7,
+      "height": 7,
       "weight": 10,
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/200.ogg",
